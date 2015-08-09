@@ -1,4 +1,6 @@
-﻿a497c9ba-4855-4244-856c-09de3a7f0eab.0\info-->und\a497c9ba-4855-4244-856c-09de3a7f0eab.0\info
+﻿79121bb8-b020-4fea-b46d-de65cab600cc-->und\79121bb8-b020-4fea-b46d-de65cab600cc
+79121bb8-b020-4fea-b46d-de65cab600cc.0-->Form\Форма
+a497c9ba-4855-4244-856c-09de3a7f0eab.0\info-->und\a497c9ba-4855-4244-856c-09de3a7f0eab.0\info
 a497c9ba-4855-4244-856c-09de3a7f0eab.0\text-->ObjectModule.txt
 af904471-8a17-4da0-b642-6798223f6589-->und\af904471-8a17-4da0-b642-6798223f6589
 copyinfo-->und\copyinfo
