@@ -5,6 +5,8 @@
 99e5fc46-2b74-422a-8731-ff39e15eefbd.0-->Form\Форма
 af8543d6-5592-4827-a253-12a9ee4783b1-->und\af8543d6-5592-4827-a253-12a9ee4783b1
 copyinfo-->und\copyinfo
+db29e233-6e54-4ee0-becb-d918aec28d42.0\info-->und\db29e233-6e54-4ee0-becb-d918aec28d42.0\info
+db29e233-6e54-4ee0-becb-d918aec28d42.0\text-->ObjectModule.txt
 root-->und\root
 version-->und\version
 versions-->und\versions
