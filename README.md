@@ -1,5 +1,7 @@
 ﻿# Vanessa-Base-Init
 
+[![Join the chat at https://gitter.im/silverbulleters/vanessa-base-init](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/silverbulleters/vanessa-base-init?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Инструмент по созданию обработок для начального заполнения базы, в которой будет вестись разработка через тестирование TDD/BDD.
 
 Цель - по нажатию одной кнопки получить обработку, которая будет заполнять пустую базу начальными данными:
