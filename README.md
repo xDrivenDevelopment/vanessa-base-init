@@ -1,6 +1,6 @@
 ﻿# Vanessa-Base-Init
 
-[![Join the chat at https://gitter.im/silverbulleters/vanessa-base-init](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/silverbulleters/vanessa-base-init?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![Join the chat at https://gitter.im/silverbulleters/vanessa-base-init](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/silverbulleters/vanessa-base-init?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) **Здесь вы можете задавать любые вопросы разработчикам и активным участникам**
 
 Инструмент по созданию обработок для начального заполнения базы, в которой будет вестись разработка через тестирование TDD/BDD.
 
